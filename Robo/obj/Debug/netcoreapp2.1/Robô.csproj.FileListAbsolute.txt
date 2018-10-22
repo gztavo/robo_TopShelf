@@ -1,0 +1,8 @@
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\bin\Debug\netcoreapp2.1\Robô.deps.json
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\bin\Debug\netcoreapp2.1\Robô.runtimeconfig.json
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\bin\Debug\netcoreapp2.1\Robô.runtimeconfig.dev.json
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\bin\Debug\netcoreapp2.1\Robô.dll
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\obj\Debug\netcoreapp2.1\Robô.csprojAssemblyReference.cache
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\obj\Debug\netcoreapp2.1\Robô.csproj.CoreCompileInputs.cache
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\obj\Debug\netcoreapp2.1\Robô.AssemblyInfoInputs.cache
+C:\Users\gcrosa\Documents\Estudos\Robô\Robô\obj\Debug\netcoreapp2.1\Robô.AssemblyInfo.cs
